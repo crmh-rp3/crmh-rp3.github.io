@@ -10,7 +10,7 @@ background: #ffe;
 border: solid 1px #f5f5f5;
 padding: 0.5em 2em 0.5em;
 margin: 0 0 0">
-Click below to navigate to a section:
+Scroll down or Click to navigate to a section:
     <ul style="margin: 0 0 0">
         <li><a href="#leadership">CRMH-RP3 Leadership</a></li>
         <li>Four Pillars of Drug Discovery
@@ -22,6 +22,7 @@ Click below to navigate to a section:
             </ul></li>
     </ul>
 </div>
+
 
 # <a name="leadership">CRMH-RP3 Leadership</a>
 
@@ -48,7 +49,8 @@ Click below to navigate to a section:
 - 2003-2009, Senior Research Director  
   Dept. of Inflammatory Diseases, Pfizer Inc. 
 - 2009-now, Chief Technology Officer  
-  Drug Discovery Pipeline (DDP), Guangzhou Institute of Biomedicine and Health (GIBH), Chinese Academy of Sciences
+  Drug Discovery Pipeline (DDP)  
+  Guangzhou Institute of Biomedicine and Health (GIBH)
   - Supervise the development of 3 clinical drugs: GIBH-824, GIBH-130, GIBH-1014
   - GIBH-824 has been approved in China (Ascentage Pharma Group HQP1351)
 
