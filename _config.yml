@@ -9,16 +9,16 @@
 lang: en-US
 
 # Site title
-title: "Scriptor"
+title: "CRMH-RP3"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "Led by Professor Micky Tortorella, RP3 is one of the research programs in the Centre for Regenerative Medicine and Health (CRMH), Hong Kong Institute of Science & Innovation (HKISI), Chinese Academy of Sciences Ltd."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://scriptor-jekyll.netlify.com"
+url: "https://crmh-rp3.github.io"
 
 # Favicon
 favicon: images/favicon.png
@@ -31,13 +31,11 @@ navigation:
   - text: Home
     url: /
   - text: About
-    url: /about/
+    url: /about
   - text: Style Guide
-    url: /style-guide/
+    url: /style-guide
   - text: Tags
-    url: /tags/
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+    url: /tags
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
