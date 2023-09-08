@@ -34,19 +34,19 @@ navigation:
     url: /about
   - text: Style Guide
     url: /style-guide
-  - text: Tags
-    url: /tags
+  - text: Events
+    url: /events
 
 # The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+disqus: 
 
 # Colors
 accent_color: '#2d72d9'
 
 # Site footer
 footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
-  has_social: true
+  content: "&copy; CRMH-RP3 all rights reserved. Theme by JustGoodThemes."
+  has_social: false
 
 # Plugins
 plugins:
