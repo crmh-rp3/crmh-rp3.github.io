@@ -28,11 +28,11 @@ google_analytics: ""
 
 # Site navigation - each item must have a title and a url.
 navigation:
-  - text: About CRMH-RP3
-    url: /about
-  - text: CRMH Homepage
+  - text: About CRMH
     url: http://www.crmh-cas.org.hk
-
+  - text: About RP3
+    url: /about
+    
 # The shortname for your Disqus site to enable comments.
 disqus: 
 
