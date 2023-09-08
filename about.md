@@ -20,3 +20,4 @@ test
 
 test
 
+{% include image_full.html imageurl="xxx" caption="xxx"%}
