@@ -25,24 +25,8 @@
   <button id="menu-open" class="menu-toggle"><span class="screen-reader-text">Open Menu</span><span class="icon-menu" aria-hidden="true"></span></button>
 </header>
 
-<<<<<<< HEAD
-<h2 style="text-align: center; margin: 0">
-    <span> |  <a href="/">About RP3</a></span>
-    {% for item in site.navigation %}
-    {% assign current = nil %}
-    {% if page.url == item.url %}
-    {% assign current = 'nav-current' %}
-    {% endif %}
-    <span>|</span>
-    <a class="{{ current }}" href="{{ item.url }}">{{ item.text }}</a>
-    {% endfor %}
-    <span>|</span>
-</h2>
-<hr>
-=======
 {% if site.description and site.description != "" and page.url == "/" %}
 <div class="site-description fadeInDown delay_05s">
   <p>{{ site.description }}</p>
 </div><!-- .site-description -->
 {% endif %}
->>>>>>> parent of e79c59d (test)
