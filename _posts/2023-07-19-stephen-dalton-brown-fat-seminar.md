@@ -7,19 +7,29 @@ tags: [seminar]
 
 <!--more-->
 
-#### Speaker
+
+
+---
+
+
+
+## Speaker
 
 - Professor Stephen Dalton  
   Professor and Global STEM Scholar  
   School of Biomedical Sciences  
   Chinese University of Hong Kong
 
-#### Time & Venue
+## Seminar Title
+
+- Targeting Thermogenic Adipocytes as a Strategy for Treating Type 2 Diabetes
+
+## Time & Venue
 
 - 2023-07-19, 12:00 - 14:00
 - Meeting Rm A, 5/F, 15W, HKSTP
 
-#### Participant
+## Participant
 
 - Professor Micky Tortorella
 - Dr. Wang Yaofeng
