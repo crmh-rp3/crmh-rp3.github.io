@@ -1,6 +1,6 @@
 ---
 layout: tags
-title: Events & Blogs
+title: CRMH-RP3 Events & Blogs
 description: CRMH-RP3 Events & Blogs
-permalink: /events.html
+permalink: /tags.html
 ---
