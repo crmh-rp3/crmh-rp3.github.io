@@ -27,7 +27,7 @@ Click below to navigate to a section:
 
 # <a name="leadership">CRMH-RP3 Leadership</a>
 
-## Program Leader (Full-time): </br>Professor Micky Tortorella
+<h2>Program Leader (Full-time): </br>Professor Micky Tortorella</h2>
 
 ![image-20230908212336823](https://raw.githubusercontent.com/tosingfung/images/master/image-20230908212336823.png)
 
@@ -37,17 +37,22 @@ Click below to navigate to a section:
 
 #### Biography:
 
+<img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230908221131534.png" alt="image-20230908221131534" style="zoom:50%;" />
+
 - 1985-1990, Bachelor of Medicine  
   University of Delaware
+- 1992-1999, Senior Scientist  
+  Inflammatory Disease Research Department, DuPont
 - 1999-2001, Doctor of Medicine  
   Faculty of Medicine, Imperial College London
-- 
-
-
+- 2001-2003, Senior Principal Investigator  
+  Dept. of Inflammatory Diseases, Pharmacia
+- 2003-2009, Senior Research Director  
+  Dept. of Inflammatory Diseases, Pfizer Inc. 
 
 ---
 
-## Co-Program Leader (Part-time):</br>Professor He Jufang 
+<h2>Co-Program Leader (Part-time):</br>Professor He Jufang </h2>
 
 ![image-20230908212139265](https://raw.githubusercontent.com/tosingfung/images/master/image-20230908212139265.png)
 
