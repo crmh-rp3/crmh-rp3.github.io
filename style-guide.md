@@ -16,3 +16,6 @@ Lorem ipsum
 {% include image_caption.html imageurl="/images/he-ju-fang-portrait.png" title="HJF" caption="This is He Jufang" %}
 
 Lorem ipsum 
+
+![](https://raw.githubusercontent.com/tosingfung/images/master/he-ju-fang-portrait.png)
+
