@@ -4,36 +4,54 @@ title: About CRMH-RP3
 permalink: /about.html
 ---
 
-> Click below to navigate to a section:
+<div
+style="
+background: #ffe;
+border: solid 1px #f5f5f5;
+padding: 0.5em 2em 0.5em;
+margin: 0 0 0">
+Click below to navigate to a section:
+    <ul style="margin: 0 0 0">
+        <li><a href="#leadership">CRMH-RP3 Leadership</a></li>
+        <li>Four Pillars of Drug Discovery
+        	<ul>
+                <li><a href="#people">People</a></li>
+                <li><a href="#platform">Platform</a></li>
+                <li><a href="#pipeline">Pipeline</a></li>
+                <li><a href="#translation">Translation</a></li>
+            </ul></li>
+    </ul>
+</div>
 
-- <a href="#leadership">CRMH-RP3 Leadership</a>
 
-- Four Pillars of Drug Discovery
-
-  - <a href="#people">People</a>
-  - <a href="#platform">Platform</a>
-  - <a href="#pipeline">Pipeline</a>
-  - <a href="#translation">Translation</a>
-
-  
 
 # <a name="leadership">CRMH-RP3 Leadership</a>
 
-## Program Leader: Professor Micky Tortorella (Full-time)
+## Program Leader (Full-time):
 
-
+## Professor Micky Tortorella
 
 ![image-20230908212336823](https://raw.githubusercontent.com/tosingfung/images/master/image-20230908212336823.png)
 
+> - Has rich experience in drug discovery and development (US and China), with a long term focus in the area of immunological and inflammatory diseases
+> - Publish over 75 high impact academic articles, 30 US / international patents
+> - Successfully lead 4 drug candidates to the clinical development stage 
 
+#### Biography:
 
-
+- 1985-1990  Bachelor of Medicine  
+  University of Delaware
+- 1999-2001  M.D.  
+  Faculty of Medicine, Imperial College London
+- 
 
 
 
 ---
 
-## Co-Program Leader: Professor He Jufang (Part-time)
+## Co-Program Leader (Part-time):
+
+## Professor He Jufang 
 
 ![image-20230908212139265](https://raw.githubusercontent.com/tosingfung/images/master/image-20230908212139265.png)
 
