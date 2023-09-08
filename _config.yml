@@ -39,7 +39,7 @@ accent_color: '#2d72d9'
 
 # Site footer
 footer:
-  content: "&copy; CRMH-RP3 all rights reserved"
+  content: "&copy; CRMH-RP3 all rights reserved. Theme by JustGoodThemes."
   has_social: false
 
 # Plugins
