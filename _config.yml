@@ -9,7 +9,7 @@
 lang: en-US
 
 # Site title
-title: "CRMH-RP3"
+title: "CRMH-RP3 Homepage"
 
 # A description of your site for meta tag, search engine results.
 description: "Led by Professor Micky Tortorella, RP3 is one of the research programs in the Centre for Regenerative Medicine and Health (CRMH), Hong Kong Institute of Science & Innovation (HKISI), Chinese Academy of Sciences Ltd."
@@ -28,8 +28,10 @@ google_analytics: ""
 
 # Site navigation - each item must have a title and a url.
 navigation:
-  - text: About
+  - text: About CRMH-RP3
     url: /about
+  - text: CRMH Homepage
+    url: http://www.crmh-cas.org.hk
 
 # The shortname for your Disqus site to enable comments.
 disqus: 
@@ -39,7 +41,7 @@ accent_color: '#2d72d9'
 
 # Site footer
 footer:
-  content: "&copy; CRMH-RP3 all rights reserved. Theme by JustGoodThemes."
+  content: "&copy; CRMH-RP3 all rights reserved"
   has_social: false
 
 # Plugins
