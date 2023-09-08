@@ -23,11 +23,11 @@ Click below to navigate to a section:
     </ul>
 </div>
 
-
-
 # <a name="leadership">CRMH-RP3 Leadership</a>
 
-<h2>Program Leader (Full-time): </br>Professor Micky Tortorella</h2>
+## Professor Micky Tortorella
+
+### *Program Leader (Full-time)*
 
 ![image-20230908212336823](https://raw.githubusercontent.com/tosingfung/images/master/image-20230908212336823.png)
 
@@ -36,8 +36,6 @@ Click below to navigate to a section:
 > - Successfully lead 4 drug candidates to the clinical development stage 
 
 #### Biography:
-
-<img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230908221131534.png" alt="image-20230908221131534" style="zoom:50%;" />
 
 - 1985-1990, Bachelor of Medicine  
   University of Delaware
@@ -49,6 +47,10 @@ Click below to navigate to a section:
   Dept. of Inflammatory Diseases, Pharmacia
 - 2003-2009, Senior Research Director  
   Dept. of Inflammatory Diseases, Pfizer Inc. 
+- 2009-now, Chief Technology Officer  
+  Drug Discovery Pipeline (DDP), Guangzhou Institute of Biomedicine and Health (GIBH), Chinese Academy of Sciences
+  - Supervise the development of 3 clinical drugs: GIBH-824, GIBH-130, GIBH-1014
+  - GIBH-824 has been approved in China (Ascentage Pharma Group HQP1351)
 
 ---
 
