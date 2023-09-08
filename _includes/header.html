@@ -6,9 +6,7 @@
     {% if page.url == item.url %}
     {% assign current = 'nav-current' %}
     {% endif %}
-    <span>&#160;&#9671;&#160;</span>
-    <a class="{{ current }}" href="{{ item.url }}">{{ item.text }}</a>
+    <span>&#160;&#9826;&#160;<a class="{{ current }}" href="{{ item.url }}">{{ item.text }}</a></span>
     {% endfor %}
-    <span>&#160;&#9671;&#160;</span>
 </h2>
 <hr>
