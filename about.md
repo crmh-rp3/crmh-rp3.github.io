@@ -27,9 +27,7 @@ Click below to navigate to a section:
 
 # <a name="leadership">CRMH-RP3 Leadership</a>
 
-## Program Leader (Full-time):
-
-## Professor Micky Tortorella
+## Program Leader (Full-time): </br>Professor Micky Tortorella
 
 ![image-20230908212336823](https://raw.githubusercontent.com/tosingfung/images/master/image-20230908212336823.png)
 
@@ -39,9 +37,9 @@ Click below to navigate to a section:
 
 #### Biography:
 
-- 1985-1990  Bachelor of Medicine  
+- 1985-1990, Bachelor of Medicine  
   University of Delaware
-- 1999-2001  M.D.  
+- 1999-2001, Doctor of Medicine  
   Faculty of Medicine, Imperial College London
 - 
 
@@ -49,9 +47,7 @@ Click below to navigate to a section:
 
 ---
 
-## Co-Program Leader (Part-time):
-
-## Professor He Jufang 
+## Co-Program Leader (Part-time):</br>Professor He Jufang 
 
 ![image-20230908212139265](https://raw.githubusercontent.com/tosingfung/images/master/image-20230908212139265.png)
 
