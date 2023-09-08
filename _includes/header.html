@@ -1,15 +1,15 @@
 <h1 style="text-align: center; padding: 1em 0 0.3em">{{site.title}}
 </h1>
 <h2 style="text-align: center; margin: 0; font-size: 1.2rem">
-    <span> &#9671; &#160;<a href="/">Home</a>&#160;</span>
+    <span> &#9671;&#160;&#160;&#160;<a href="/">Home</a>&#160;&#160;&#160;</span>
     {% for item in site.navigation %}
     {% assign current = nil %}
     {% if page.url == item.url %}
     {% assign current = 'nav-current' %}
     {% endif %}
-    <span>&#9671; &#160;</span>
+    <span>&#9671;&#160;&#160;&#160;</span>
     <a class="{{ current }}" href="{{ item.url }}">{{ item.text }}</a>
     {% endfor %}
-    <span>&#160; &#9671;</span>
+    <span>&#160;&#160;&#160;&#9671;</span>
 </h2>
 <hr>
