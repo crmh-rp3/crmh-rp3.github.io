@@ -25,15 +25,15 @@ permalink: /leadership.html
 
 ### Biography
 
-&#9826; 2021-now, Principal Investigator & RP3 Leader
+&#9670; 2021-now, Principal Investigator & RP3 Leader
 
-> &#9826; Developing multiple IND candidates in CNS and musculoskeletal diseases
+> Developing multiple IND candidates in CNS and musculoskeletal diseases;
 >
-> &#9826; Strong network in drug discovery in mainland China and the US
+> Strong network in drug discovery in mainland China and the US.
 
 &#9826; 2009-now, Chief Technology Officer, Drug Discovery Pipeline (DDP), Guangzhou Institute of Biomedicine and Health (GIBH)
 
-> &#9826; Supervise the development of 3 clinical drugs: GIBH-824, GIBH-130, GIBH-1014
+> Supervise the development of 3 clinical drugs: GIBH-824, GIBH-130, GIBH-1014
 >
 > &#9826; GIBH-824 has been approved in China (Ascentage Pharma: HQP1351)
 

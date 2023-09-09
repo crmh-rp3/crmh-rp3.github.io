@@ -30,8 +30,6 @@ google_analytics: ""
 navigation:
   - text: Home
     url: /
-  - text: About&#160;CRMH
-    url: http://www.crmh-cas.org.hk
   - text: Leadership
     url: /leadership
   - text: Four&#160;Pillars&#160;of&#160;Drug&#160;Discovery
