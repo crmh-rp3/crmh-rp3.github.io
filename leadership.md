@@ -27,23 +27,24 @@ permalink: /leadership.html
 ### Biography
 
 - 2021-now  
-  **Principal Investigator & RP3 Leader**
-
-> Developing multiple IND candidates in CNS and musculoskeletal diseases;
->
-> Strong network in drug discovery in mainland China and the US.
-
-&#9826; 2009-now, Chief Technology Officer, Drug Discovery Pipeline (DDP), Guangzhou Institute of Biomedicine and Health (GIBH)
-
-> Supervise the development of 3 clinical drugs: GIBH-824, GIBH-130, GIBH-1014
->
-> GIBH-824 has been approved in China (Ascentage Pharma: HQP1351)
-
-&#9826; 2003-2009, Senior Research Director (Inflammatory Diseases), Pfizer Inc. 
-
-&#9826; 2001-2003, Senior Principal Investigator (Inflammatory Diseases), Pharmacia
-
-&#9826; 1992-1999, Senior Scientist (Inflammatory Diseases), DuPont
+  **Principal Investigator & RP3 Leader**  
+  &#9826; Developing multiple IND candidates in CNS and musculoskeletal diseases  
+  &#9826; Strong network in drug discovery in mainland China and the US.
+- 2009-now  
+  **Chief Technology Officer**  
+  Drug Discovery Pipeline (DDP)  
+  Guangzhou Institute of Biomedicine and Health (GIBH)  
+  &#9826; Supervise the development of 3 clinical drugs: GIBH-824, GIBH-130, GIBH-1014  
+  &#9826; GIBH-824 has been approved in China (Ascentage Pharma: HQP1351)
+- 2003-2009  
+  **Senior Research Director**  
+  Dept. of Inflammatory Diseases, Pfizer Inc. 
+- 2001-2003  
+  **Senior Principal Investigator**  
+  Dept. of Inflammatory Diseases, Pharmacia
+- 1992-1999  
+  **Senior Scientist**  
+  Dept. of Inflammatory Diseases, DuPont
 
 
 
