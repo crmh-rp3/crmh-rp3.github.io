@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seminar: Application of Deep Learning in Drug Discovery. Professor CHEN Hongming, Guangzhou Laboratory"
+title: "Seminar: Application of Deep Learning in Drug Discovery. Professor Chen Hongming, Guangzhou Laboratory"
 feature_image: https://raw.githubusercontent.com/tosingfung/images/master/image-20230908201811878.png
 tags: [seminar]
 ---
@@ -26,6 +26,6 @@ tags: [seminar]
 
 {% include image_full.html imageurl="https://raw.githubusercontent.com/tosingfung/images/master/image-20230908200444251.png" caption="Small group discussion "%}
 
-{% include image_full.html imageurl="https://raw.githubusercontent.com/tosingfung/images/master/image-20230908201811878.png" caption="Seminar: Application of Deep Learning in Drug Discovery"%}
+{% include image_full.html imageurl="https://raw.githubusercontent.com/tosingfung/images/master/image-20230908201811878.png" caption="Seminar"%}
 
 {% include image_full.html imageurl="https://raw.githubusercontent.com/tosingfung/images/master/image-20230908202227409.png" caption="Group photo with RP3 staff and students"%}
