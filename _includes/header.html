@@ -1,6 +1,6 @@
-<h1 style="font-size: 2.5rem; text-align: center; padding: 2em 0 0.3em">{{site.title}}
+<h1 style="font-size: 2rem; text-align: center; padding: 1.5rem 0 0.3rem">{{site.title}}
 </h1>
-<h2 style="text-align: center; margin: 0">
+<h2 style="text-align: left; margin: 0; font-height: 1.5rem;">
     {% for item in site.navigation %}
     {% assign current = nil %}
     {% if page.url == item.url %}
@@ -9,4 +9,3 @@
     <span>&#160;&#9826;&#160;<a class="{{ current }}" href="{{ item.url }}">{{ item.text }}</a></span>
     {% endfor %}
 </h2>
-<hr>

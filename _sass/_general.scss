@@ -63,9 +63,9 @@ h1 {
   letter-spacing: -1px;
 
   @media only screen and (max-width: 600px) {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     letter-spacing: normal;
-    line-height: 1;
+    line-height: 1.2;
   }
 }
 
@@ -74,7 +74,7 @@ h2 {
   letter-spacing: -1px;
 
   @media only screen and (max-width: 600px) {
-    font-size: 1.1rem;
+    font-size: 1.3rem;
     letter-spacing: normal;
   }
 }
@@ -83,7 +83,7 @@ h3 {
   font-size: 1.33333rem;
 
   @media only screen and (max-width: 600px) {
-    font-size: 1em;
+    font-size: 1.1em;
   }
 }
 
