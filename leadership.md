@@ -120,13 +120,25 @@ permalink: /leadership.html
 
 <div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230909201700468.png" /></div>
 <h2 style="padding-top: 0.5em; padding-bottom: 0; margin: 0; text-align: center">Professor Sun Hongyan</h2>
-<h3 style="padding: 0; margin: 0; text-align: center; color: #4071D7; font-style: italic">City University of Hong Kong (Part-time)</h3>
-
-
+<h3 style="padding-top: 0; padding-bottom: 2em; margin: 0; text-align: center; color: #4071D7; font-style: italic">City University of Hong Kong (Part-time)</h3>
 
 <div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230909202007948.png" /></div>
 <h2 style="padding-top: 0.5em; padding-bottom: 0; margin: 0; text-align: center">Professor Lau Chun Yue</h2>
-<h3 style="padding: 0; margin: 0; text-align: center; color: #4071D7; font-style: italic">City University of Hong Kong (Part-time)</h3>
+<h3 style="padding-top: 0; padding-bottom: 2em; margin: 0; text-align: center; color: #4071D7; font-style: italic">City University of Hong Kong (Part-time)</h3>
 
+<div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230909202643310.png" /></div>
+<h2 style="padding-top: 0.5em; padding-bottom: 0; margin: 0; text-align: center">Professor Lee Youngjin</h2>
+<h3 style="padding-top: 0; padding-bottom: 2em; margin: 0; text-align: center; color: #4071D7; font-style: italic">City University of Hong Kong (Part-time)</h3>
 
+<div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230909202928878.png" /></div>
+<h2 style="padding-top: 0.5em; padding-bottom: 0; margin: 0; text-align: center">Professor Li Gang</h2>
+<h3 style="padding-top: 0; padding-bottom: 2em; margin: 0; text-align: center; color: #4071D7; font-style: italic">Chinese University of Hong Kong (Part-time)</h3>
+
+<div style="text-align: center"><img src="xxx" /></div>
+<h2 style="padding-top: 0.5em; padding-bottom: 0; margin: 0; text-align: center">Professor xxx</h2>
+<h3 style="padding-top: 0; padding-bottom: 2em; margin: 0; text-align: center; color: #4071D7; font-style: italic">City University of Hong Kong (Part-time)</h3>
+
+<div style="text-align: center"><img src="xxx" /></div>
+<h2 style="padding-top: 0.5em; padding-bottom: 0; margin: 0; text-align: center">Professor xxx</h2>
+<h3 style="padding-top: 0; padding-bottom: 2em; margin: 0; text-align: center; color: #4071D7; font-style: italic">City University of Hong Kong (Part-time)</h3>
 
