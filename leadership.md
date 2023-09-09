@@ -6,18 +6,13 @@ permalink: /leadership.html
 
 
 
-<div style="background:#f0f0f0; text-align:center; padding: 0.5em;">
 <div style="text-align: center">
     <img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230908212336823.png" alt="image-20230908212336823" /></div>
-<h2 style="padding-top: 1em; padding-bottom: 0; margin: 0; text-align: center">Professor Micky Tortorella</h2>
-<h2 style="padding: 0; margin: 0; text-align: center; color: #4071D7; font-style: italic">Program Leader (Full-time)</h2>
-<h3 style="padding-top: 1em; padding-bottom: 0; margin: 0; text-align: center">Over 25 years of experience in the drug discovery and basic research of inflammatory diseases.</h3>
-</div>
+<h2 style="padding-top: 0.5em; padding-bottom: 0; margin: 0; text-align: center">Professor Micky Tortorella</h2>
+<h3 style="padding: 0; margin: 0; text-align: center; color: #4071D7; font-style: italic">Program Leader (Full-time)</h3>
 
 
-
-
-### Highlights
+### Over 25 years of experience in the drug discovery and basic research of inflammatory diseases
 
 - Rich experience in drug discovery and development (US and China), with a long term focus in the area of immunological and inflammatory diseases;
 - Publish over 75 high impact academic articles and over 30 US and international patents;
@@ -63,13 +58,12 @@ permalink: /leadership.html
 
 <div style="text-align: center">
     <img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230908212139265.png" alt="image-20230908212139265" />
-</div>
-<h2 style="padding: 0; margin: 0; text-align: center">Professor He Jufang</h2>
-<h2 style="padding: 0; margin: 0; text-align: center; color: #4071D7; font-style: italic">Co-Program Leader (Full-time)</h2>
+<h2 style="padding-top: 0.5em; padding-bottom: 0; margin: 0; text-align: center">Professor He Jufang</h2>
+<h3 style="padding: 0; margin: 0; text-align: center; color: #4071D7; font-style: italic">Co-Program Leader (Part-time)</h3>
 
-### Over 
+### Highlights
 
-- Rich ex
+- Long term focus on the basic research in neuroscience
 
 ### Education
 
