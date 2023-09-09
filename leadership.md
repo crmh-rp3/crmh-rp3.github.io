@@ -4,10 +4,14 @@ title: Leadership
 permalink: /leadership.html
 ---
 
-<h2 style="padding-bottom: 0; margin-bottom: 0">Professor Micky Tortorella</h2>
-<h2 style="padding-top: 0; margin-top: 0; color: #4071D7; font-style: italic">Program Leader (Full-time)</h2>
+<div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230908212336823.png" alt="image-20230908212336823" /></div>
 
-![image-20230908212336823](https://raw.githubusercontent.com/tosingfung/images/master/image-20230908212336823.png)
+<img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230908212336823.png" alt="image-20230908212336823" />
+
+<h2 style="padding: 0; margin: 0; text-align: center">Professor Micky Tortorella</h2>
+<h2 style="padding: 0; margin: 0; text-align: center; color: #4071D7; font-style: italic">Program Leader (Full-time)</h2>
+
+
 
 ### Over 25 years of experience in drug discovery and basic research on inflammatory diseases
 
