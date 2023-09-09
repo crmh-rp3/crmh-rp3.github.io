@@ -9,11 +9,11 @@ permalink: /leadership.html
 
 ![image-20230908212336823](https://raw.githubusercontent.com/tosingfung/images/master/image-20230908212336823.png)
 
-### Highlight
+### Over 25 years of experience in drug discovery and basic research on inflammatory diseases
 
-1. Rich experience in drug discovery and development (US and China), with a long term focus in the area of immunological and inflammatory diseases;
-2. Publish over 75 high impact academic articles and over 30 US and international patents;
-3. Successfully lead 4 drug candidates to the clinical development stage.
+- Rich experience in drug discovery and development (US and China), with a long term focus in the area of immunological and inflammatory diseases;
+- Publish over 75 high impact academic articles and over 30 US and international patents;
+- Successfully lead 4 drug candidates to the clinical development stage.
 
 ### Education
 
@@ -45,6 +45,8 @@ permalink: /leadership.html
 - 1992-1999  
   **Senior Scientist**  
   Dept. of Inflammatory Diseases, DuPont
+
+{% include image_caption.html imageurl="https://raw.githubusercontent.com/tosingfung/images/master/image-20230909173606114.png" %}
 
 <div style="text-align:right"><a href="#page">Back to top</a></div>
 

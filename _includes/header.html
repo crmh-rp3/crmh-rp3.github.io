@@ -2,7 +2,7 @@
 </h1>
 
 <div style="background:#f0f0f0; padding: 1em 0 1em;">
-<h2 style="text-align: center; margin: 0; line-height: 1.5;">
+<h3 style="text-align: center; margin: 0; line-height: 1.5;">
     {% for item in site.navigation %}
     {% assign current = nil %}
     {% if page.url == item.url %}
@@ -10,6 +10,6 @@
     {% endif %}
     <span>&#160;&#9826;&#160;<a class="{{ current }}" href="{{ item.url }}">{{ item.text }}</a></span>
     {% endfor %}
-</h2>
+</h3>
 </div>
 
