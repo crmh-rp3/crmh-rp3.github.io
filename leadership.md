@@ -51,7 +51,7 @@ permalink: /leadership.html
 {% include image_caption.html imageurl="https://raw.githubusercontent.com/tosingfung/images/master/image-20230909173606114.png" %}
 
 <div style="text-align:right"><a href="#page">Back to top</a></div>
-<hr style="border-top: 5px dashed grey; border-bottom: 0">
+<hr style="border: 0; border-top: 5px solid grey">
 
 
 
@@ -59,11 +59,13 @@ permalink: /leadership.html
 <h2 style="padding-top: 0.5em; padding-bottom: 0; margin: 0; text-align: center">Professor He Jufang</h2>
 <h3 style="padding: 0; margin: 0; text-align: center; color: #4071D7; font-style: italic">Co-Program Leader (Part-time)</h3>
 
-### Over 30 years of experience in the research of basic neuroscience and brain diseases
+### Over 30 years of research experience in basic neuroscience and brain diseases
 
 - Long term focus in basic neuroscience research and discover the *memory switch*: cholecystokinin;
 - Dedicated to the drug development for brain diseases, including epilepsy, tinnitus, dementia, depression, etc.;
 - Publish over 110 high impact academic articles and 9 US and international patents;
+- Research supported by UGC (Hong Kong), ITF (Hong Kong), HMRF (Hong Kong), MOST (mainland China), NSFC (mainland China), CAS (mainland China), etc. The total funding amount is up to 90 million HKD. 
+- Professor He has supervised over 50 Ph.D. graduates. He is now supervising 18 postdoctoral fellows and 41 Ph.D. students.
 
 ### Education
 
@@ -73,7 +75,7 @@ permalink: /leadership.html
   **Doctor of Engineering**  
   University of Tokyo
 - 1979-1986  
-  **Bachelor of Engineering  **
+  **Bachelor of Engineering  **  
   **Master of Engineering**  
   Harbin Institute of Technology 
 
@@ -105,12 +107,12 @@ permalink: /leadership.html
   **Post-doctoral Fellow**  
   Institute of Physical and Chemical Research (RIKEN)
 
-### 1999-now: Professor He's research is supported by UGC (Hong Kong), ITF (Hong Kong), HMRF (Hong Kong), MOST (mainland China), NSFC (mainland China), CAS (mainland China), etc. The total funding amount is up to 90 million HKD. He has supervised over 50 Ph.D. graduates. He is now supervising 18 postdoctoral fellows and 41 Ph.D. students.
 
-{% include image_caption.html imageurl="https://raw.githubusercontent.com/tosingfung/images/master/image-20230909195652378.png" %}
+
+{% include image_caption.html imageurl="https://raw.githubusercontent.com/tosingfung/images/master/image-20230909201330560.png" %}
 
 <div style="text-align:right"><a href="#page">Back to top</a></div>
-<hr style="border-top: 5px dashed grey; border-bottom: 0">
+<hr style="border: 0; border-top: 5px solid grey">
 
 
 
