@@ -28,14 +28,14 @@ permalink: /leadership.html
 
 - 2021-now  
   **Principal Investigator & RP3 Leader**  
-  &#9826; Developing multiple IND candidates in CNS and musculoskeletal diseases  
-  &#9826; Strong network in drug discovery in mainland China and the US.
+  - Developing multiple IND candidates in CNS and musculoskeletal diseases
+  - Strong network in drug discovery in mainland China and the US.
 - 2009-now  
   **Chief Technology Officer**  
-  Drug Discovery Pipeline (DDP)  
-  Guangzhou Institute of Biomedicine and Health (GIBH)  
-  &#9826; Supervise the development of 3 clinical drugs: GIBH-824, GIBH-130, GIBH-1014  
-  &#9826; GIBH-824 has been approved in China (Ascentage Pharma: HQP1351)
+  Drug Discovery Pipeline  
+  Guangzhou Institute of Biomedicine and Health
+  - Supervise the development of 3 clinical drugs: GIBH-824, GIBH-130, GIBH-1014 
+  - GIBH-824 has been approved in China (Ascentage Pharma: HQP1351)
 - 2003-2009  
   **Senior Research Director**  
   Dept. of Inflammatory Diseases, Pfizer Inc. 
@@ -46,14 +46,13 @@ permalink: /leadership.html
   **Senior Scientist**  
   Dept. of Inflammatory Diseases, DuPont
 
-
-
-
+<div style="text-align:right"><a href="#page">Back to top</a></div>
 
 
 ---
 
-<h2>Co-Program Leader (Part-time):</br>Professor He Jufang </h2>
+<h2 style="padding-bottom: 0; margin-bottom: 0">Professor He Jufang</h2>
+<h2 style="padding-top: 0; margin-top: 0; color: #4071D7; font-style: italic">Co-Program Leader (Full-time)</h2>
 
 ![image-20230908212139265](https://raw.githubusercontent.com/tosingfung/images/master/image-20230908212139265.png)
 
@@ -81,7 +80,7 @@ permalink: /leadership.html
 
 
 
-<div style="text-align:right"><a href="#page">Back to top</a></div>
+
 
 
 
