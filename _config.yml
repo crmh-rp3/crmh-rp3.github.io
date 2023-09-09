@@ -32,7 +32,7 @@ navigation:
     url: /
   - text: Leadership
     url: /leadership
-  - text: Four&#160;Pillars&#160;of&#160;Drug&#160;Discovery
+  - text: Four&#160;Pillars
     url: /pillars
     
 # The shortname for your Disqus site to enable comments.
