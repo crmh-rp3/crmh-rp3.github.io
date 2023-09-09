@@ -7,12 +7,6 @@ tags: [seminar]
 
 <!--more-->
 
-
-
----
-
-
-
 ## Speaker
 
 - Professor Stephen Dalton  
