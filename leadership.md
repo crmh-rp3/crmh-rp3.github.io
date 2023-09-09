@@ -60,10 +60,6 @@ permalink: /leadership.html
 
 
 
----
-
-
-
 
 
 
@@ -95,20 +91,6 @@ permalink: /leadership.html
 <div style="text-align:right"><a href="#page">Back to top</a></div>
 
 
-
-
-
-
-
-<div style="text-align:right"><a href="#page">Back to top</a></div>
-
-
-
-
-
-
-
-<div style="text-align:right"><a href="#page">Back to top</a></div>
 
 
 
