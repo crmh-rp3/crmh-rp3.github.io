@@ -4,22 +4,23 @@ title: Leadership - CRMH-RP3
 permalink: /leadership.html
 ---
 
-## Professor Micky Tortorella
+<h2 style="padding-bottom: 0; margin-bottom: 0">Professor Micky Tortorella</h2>
+<h2 style="padding-top: 0; margin-top: 0; color: #4071D7; font-style: italic">Program Leader (Full-time)</h2>
 
 ![image-20230908212336823](https://raw.githubusercontent.com/tosingfung/images/master/image-20230908212336823.png)
 
-#### Program Leader (Full-time)
+### Highlight
 
 - Rich experience in drug discovery and development (US and China), with a long term focus in the area of immunological and inflammatory diseases
 - Publish over 75 high impact academic articles, 30 US / international patents
 - Successfully lead 4 drug candidates to the clinical development stage 
 
-#### Education
+### Education
 
 - 1999-2001, Doctor of Medicine, Imperial College London, UK
 - 1985-1990, Bachelor of Medicine, University of Delaware, US
 
-#### Biography
+### Biography
 
 - 2021-now, Principal Investigator & RP3 Leader
   - Developing multiple IND candidates in CNS and musculoskeletal diseases
