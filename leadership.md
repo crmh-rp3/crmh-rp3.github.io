@@ -132,13 +132,20 @@ permalink: /leadership.html
 
 <div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230909202928878.png" /></div>
 <h2 style="padding-top: 0.5em; padding-bottom: 0; margin: 0; text-align: center">Professor Li Gang</h2>
-<h3 style="padding-top: 0; padding-bottom: 2em; margin: 0; text-align: center; color: #4071D7; font-style: italic">Chinese University of Hong Kong (Part-time)</h3>
+<h3 style="padding-top: 0; padding-bottom: 0; margin: 0; text-align: center; color: #4071D7; font-style: italic">Chinese University of Hong Kong</h3>
+<h3 style="padding-top: 0; padding-bottom: 2em; margin: 0; text-align: center; color: #4071D7; font-style: italic">(Part-time)</h3>
 
-<div style="text-align: center"><img src="xxx" /></div>
-<h2 style="padding-top: 0.5em; padding-bottom: 0; margin: 0; text-align: center">Professor xxx</h2>
-<h3 style="padding-top: 0; padding-bottom: 2em; margin: 0; text-align: center; color: #4071D7; font-style: italic">City University of Hong Kong (Part-time)</h3>
+<div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230909204040358.png" /></div>
+<h2 style="padding-top: 0.5em; padding-bottom: 0; margin: 0; text-align: center">Dr. Kong Ling</h2>
+<h3 style="padding-top: 0; padding-bottom: 2em; margin: 0; text-align: center; color: #4071D7; font-style: italic">CRMH-HKISI-CAS (Part-time)</h3>
 
-<div style="text-align: center"><img src="xxx" /></div>
-<h2 style="padding-top: 0.5em; padding-bottom: 0; margin: 0; text-align: center">Professor xxx</h2>
-<h3 style="padding-top: 0; padding-bottom: 2em; margin: 0; text-align: center; color: #4071D7; font-style: italic">City University of Hong Kong (Part-time)</h3>
+<div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230909203515029.png" /></div>
+<h2 style="padding-top: 0.5em; padding-bottom: 0; margin: 0; text-align: center">Dr. Chen Xi</h2>
+<h3 style="padding-top: 0; padding-bottom: 0; margin: 0; text-align: center; color: #4071D7; font-style: italic">Program Coordinator (Part-time)</h3>
+<h3 style="padding-top: 0; padding-bottom: 2em; margin: 0; text-align: center; color: #4071D7; font-style: italic">City University of Hong Kong</h3>
+
+<div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230909203624437.png" /></div>
+<h2 style="padding-top: 0.5em; padding-bottom: 0; margin: 0; text-align: center">Dr. Wang Yaofeng</h2>
+<h3 style="padding-top: 0; padding-bottom: 0; margin: 0; text-align: center; color: #4071D7; font-style: italic">Program Coordinator (Full-time)</h3>
+<h3 style="padding-top: 0; padding-bottom: 2em; margin: 0; text-align: center; color: #4071D7; font-style: italic">CRMH-HKISI-CAS</h3>
 
