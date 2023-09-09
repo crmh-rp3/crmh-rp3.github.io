@@ -6,7 +6,7 @@ permalink: /leadership.html
 
 
 
-<div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230908212336823.png" alt="image-20230908212336823" /></div>
+<div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230908212336823.png" /></div>
 <h2 style="padding-top: 0.5em; padding-bottom: 0; margin: 0; text-align: center">Professor Micky Tortorella</h2>
 <h3 style="padding: 0; margin: 0; text-align: center; color: #4071D7; font-style: italic">Program Leader (Full-time)</h3>
 
@@ -55,7 +55,7 @@ permalink: /leadership.html
 
 
 
-<div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230908212139265.png" alt="image-20230908212139265" /></div>
+<div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230908212139265.png" /></div>
 <h2 style="padding-top: 0.5em; padding-bottom: 0; margin: 0; text-align: center">Professor He Jufang</h2>
 <h3 style="padding: 0; margin: 0; text-align: center; color: #4071D7; font-style: italic">Co-Program Leader (Part-time)</h3>
 
@@ -75,7 +75,7 @@ permalink: /leadership.html
   **Doctor of Engineering**  
   University of Tokyo
 - 1979-1986  
-  **Bachelor of Engineering  **  
+  **Bachelor of Engineering**  
   **Master of Engineering**  
   Harbin Institute of Technology 
 
@@ -118,7 +118,15 @@ permalink: /leadership.html
 
 
 
+<div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230909201700468.png" /></div>
+<h2 style="padding-top: 0.5em; padding-bottom: 0; margin: 0; text-align: center">Professor Sun Hongyan</h2>
+<h3 style="padding: 0; margin: 0; text-align: center; color: #4071D7; font-style: italic">City University of Hong Kong (Part-time)</h3>
 
+
+
+<div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230909202007948.png" /></div>
+<h2 style="padding-top: 0.5em; padding-bottom: 0; margin: 0; text-align: center">Professor Lau Chun Yue</h2>
+<h3 style="padding: 0; margin: 0; text-align: center; color: #4071D7; font-style: italic">City University of Hong Kong (Part-time)</h3>
 
 
 
