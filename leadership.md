@@ -7,6 +7,8 @@ permalink: /leadership.html
 <div class="site-description fadeInDown delay_05s">
   <p>Led by drug expert Professor Micky Tortorella and co-led by CNS expert Professor He Jufang, the RP3 investigator team comprises senior scientists from CityU, CUHK and CRMH.</p>
 </div>
+<hr style="border: 0; border-top: 5px solid grey">
+
 
 <div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230908212336823.png" /></div>
 <h2 style="padding-top: 0.5em; padding-bottom: 0.5em; margin: 0; text-align: center">Professor Micky Tortorella</h2>
