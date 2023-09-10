@@ -73,7 +73,7 @@ permalink: /pillars.html
 
 ![image-20230910142308241](https://raw.githubusercontent.com/tosingfung/images/master/image-20230910142308241.png)
 
-### **Innovative Pipeline of Drugs (Translation)**
+### **Innovative Pipeline of Drugs**
 
 | **Agent**  | **Target** | **Drug Class** | **Indication** |
 | ---------- | ---------- | -------------- | -------------- |
