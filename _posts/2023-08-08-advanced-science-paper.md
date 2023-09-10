@@ -1,15 +1,13 @@
 ---
 layout: post
 title: "Publication: RP3 Research Published in Advanced Science"
-feature_image: https://raw.githubusercontent.com/tosingfung/images/master/image-20230910173828995.png
+feature_image: https://raw.githubusercontent.com/tosingfung/images/master/image-20230910174428979.png
 tags: [publication]
 ---
 
 <!--more-->
 
-## Article Title
-
-{% include image_caption.html imageurl="https://raw.githubusercontent.com/tosingfung/images/master/image-20230910173828995.png" caption="" %}
+{% include image_caption.html imageurl="https://raw.githubusercontent.com/tosingfung/images/master/image-20230910174428979.png" caption="" %}
 
 ## Link
 
