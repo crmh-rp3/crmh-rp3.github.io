@@ -48,9 +48,22 @@ permalink: /pillars.html
 
 ---
 
-## Pillar III: Pipeline
+# Pillar III: Pipeline
 
-#### *Heading 4*
+- **Drugs for cognitive regeneration**
+  - Preserving the brain extracellular matrix using small molecule drugs as a strategy for blocking neural degeneration
+  - Development of GPCR agonists as a stratagem for curing tinnitus & amblyopia
+  - Development of GPCR antagonists for alleviating epilepsy
+  - In-vitro and in-vivo assay platforms for assessing drug efficacy for brain disorders
+  - Mechanism-based studies on the role of orphan GPCRs in brain health
+- **Drugs for muscle skeletal regeneration**
+  - Development of natural small molecules to promote osteoporotic fracture healing
+  - Study the role of mesenchymal cells in cartilage repair
+  - Development of enterotoxins as drugs to promote osteoporotic fracture healing
 
-## Pillar IV: Translation
+![image-20230910135453970](https://raw.githubusercontent.com/tosingfung/images/master/image-20230910135453970.png)
+
+---
+
+# Pillar IV: Translation
 
