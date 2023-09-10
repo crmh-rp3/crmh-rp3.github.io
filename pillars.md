@@ -19,14 +19,14 @@ permalink: /pillars.html
 
 
 
-<div>
-    <img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230910104929673.png" alt="image-20230910104929673" />
-    <img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230910104955818.png" alt="image-20230910104955818" />
-    <img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230910104929673.png" alt="image-20230910104929673" />
-    <img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230910104955818.png" alt="image-20230910104955818" />
-    <img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230910104929673.png" alt="image-20230910104929673" />
-    <img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230910104955818.png" alt="image-20230910104955818" />
-    <img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230910104929673.png" alt="image-20230910104929673" />
-    <img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230910104955818.png" alt="image-20230910104955818" />
+<div style="text-align: center">
+    <img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230910104929673.png" style="width: 100px" />
+    <img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230910104955818.png" style="width: 200px" />
+    <img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230910104929673.png" style="width: 300px" />
+    <img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230910104955818.png" style="width: 400px" />
+    <img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230910104929673.png" style="width: 500px" />
+    <img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230910104955818.png" style="width: 600px" />
+
+
 </div>
 
