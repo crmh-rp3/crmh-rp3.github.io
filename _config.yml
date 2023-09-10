@@ -34,8 +34,11 @@ navigation:
     url: /leadership
   - text: Four&#160;Pillars
     url: /pillars
+  - text: Events&#160;and&#160;Publications
+    url: /tags
   - text: Photo&#160;Gallery
     url: /photo
+
   - text: Contact&#160;Us
     url: /contact
     
