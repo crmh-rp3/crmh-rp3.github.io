@@ -5,7 +5,9 @@ permalink: /leadership.html
 ---
 
 <div class="site-description fadeInDown delay_05s">
-  <p style="padding-bottom: 2em">Insert page description here...</p>
+  <p style="padding-top: 1em; padding-bottom: 2em">Insert page description here...</p>
+</div>
+
 <div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230908212336823.png" /></div>
 <h3 style="padding-top: 0.5em; padding-bottom: 0; margin: 0; text-align: center">Professor Micky Tortorella</h3>
 <h4 style="padding: 0; margin: 0; text-align: center; color: #4071D7; font-style: italic">Program Leader (Full-time)</h4>
@@ -113,7 +115,6 @@ permalink: /leadership.html
 
 <div style="text-align:right"><a href="#page">Back to top</a></div>
 <hr style="border: 0; border-top: 5px solid grey">
-
 
 
 
