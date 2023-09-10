@@ -5,7 +5,7 @@ permalink: /leadership.html
 ---
 
 <div class="site-description fadeInDown delay_05s" style="padding: 0">
-  <p style="padding-top: 1em; padding-bottom: 2em">Insert page description here...</p>
+  <p style="padding-top: 1em; padding-bottom: 2em">Led by drug expert Professor Micky Tortorella and co-led by CNS expert Professor He Jufang, the RP3 investigator team comprises senior scientists from CityU, CUHK and CRMH.</p>
 </div>
 
 <div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230908212336823.png" /></div>
@@ -119,8 +119,8 @@ permalink: /leadership.html
 
 
 <div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230909201700468.png" /></div>
-<h2 style="padding-top: 0.5em; padding-bottom: 0.5em; margin: 0; text-align: center">Professor Sun Hongyan</h3>
-<h4 style="padding-top: 0; padding-bottom: 4em; margin: 0; text-align: center; color: #4071D7; font-style: italic">City University of Hong Kong (Part-time)</h4>
+<h2 style="padding-top: 0.5em; padding-bottom: 0.5em; margin: 0; text-align: center">Professor Sun Hongyan</h2>
+<h3 style="padding-top: 0; padding-bottom: 4em; margin: 0; text-align: center; color: #4071D7; font-style: italic">City University of Hong Kong (Part-time)</h3>
 
 <div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230909202007948.png" /></div>
 <h2 style="padding-top: 0.5em; padding-bottom: 0.5em; margin: 0; text-align: center">Professor Lau Chun Yue</h2>
