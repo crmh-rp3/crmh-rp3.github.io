@@ -67,6 +67,22 @@ permalink: /pillars.html
 
 ---
 
-# Pillar IV: Translation (In Progress)
+# Pillar IV: Translation
 
 ![image-20230910142308241](https://raw.githubusercontent.com/tosingfung/images/master/image-20230910142308241.png)
+
+- **Innovative Pipeline of Drugs**
+
+  - **3R1** is a novel small molecule agonist targeting a GPCR in the visual cortex of the brain for the treatment and cure for childhood and adult **Amblyopia**;
+  - **866** is a new small molecule agonist against a GPCR in the audio cortex of the brain for the treatment and cure of **Tinnitus**;
+  - **JM-484** is a small molecule antagonist targeting a GPCR in the neocortex of the brain as a novel approach for treating **Epilepsy**
+
+  | **Agent**           | **Target** | **Drug Class** | **Indication** |
+  | ------------------- | ---------- | -------------- | -------------- |
+  | **3r1** (IND #1)    | GPCR       | Agonist        | **Amblyopia**  |
+  | **866** (IND #2)    | GPCR       | Agonist        | **Tinnitus**   |
+  | **JM-484** (IND #3) | GPCR       | Antagonist     | **Epilepsy**   |
+
+  
+
+![image-20230910150120226](https://raw.githubusercontent.com/tosingfung/images/master/image-20230910150120226.png)
