@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Four Pillars of Drug Discovery
-permalink: /pillars.html
+title: Pillar I: People
+permalink: /people.html
 ---
 
 ### Senior Scientists (5)
