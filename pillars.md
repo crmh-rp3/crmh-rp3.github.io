@@ -15,16 +15,18 @@ permalink: /pillars.html
 
 # Pillar I: People
 
+![image-20230910114849560](https://raw.githubusercontent.com/tosingfung/images/master/image-20230910114849560.png)
+
 - International team of drug discovery scientists
 - Successful **talent recruitment** in diversified disciplines by RP3 has been completed
 - Total staff is currently 65 (**critical mass!**)
 - [Click here for a full list of RP3 members](/people)
 
-![image-20230910114849560](https://raw.githubusercontent.com/tosingfung/images/master/image-20230910114849560.png)
-
 ---
 
 # Pillar II: Platform
+
+![image-20230910135827999](https://raw.githubusercontent.com/tosingfung/images/master/image-20230910135827999.png)
 
 - Each platform fully equipped and staffed
 - Allows RP3 to conduct drug development from target validation to IND candidate nomination
@@ -44,11 +46,11 @@ permalink: /pillars.html
   - Deuterium-substitution based chemistry
   - Peptide based chemistry  
 
-![image-20230910122903281](https://raw.githubusercontent.com/tosingfung/images/master/image-20230910122903281.png)
-
 ---
 
 # Pillar III: Pipeline
+
+![image-20230910135453970](https://raw.githubusercontent.com/tosingfung/images/master/image-20230910135453970.png)
 
 - **Drugs for cognitive regeneration**
   - Preserving the brain extracellular matrix using small molecule drugs as a strategy for blocking neural degeneration
@@ -61,9 +63,10 @@ permalink: /pillars.html
   - Study the role of mesenchymal cells in cartilage repair
   - Development of enterotoxins as drugs to promote osteoporotic fracture healing
 
-![image-20230910135453970](https://raw.githubusercontent.com/tosingfung/images/master/image-20230910135453970.png)
+
 
 ---
 
-# Pillar IV: Translation
+# Pillar IV: Translation (In Progress)
 
+![image-20230910142308241](https://raw.githubusercontent.com/tosingfung/images/master/image-20230910142308241.png)
