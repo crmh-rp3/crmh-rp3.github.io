@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CRMH-RP3 in the Asia Summit on Global Health "
+title: "Exhibition: CRMH in the 3rd Asia Summit on Global Health"
 feature_image: https://raw.githubusercontent.com/tosingfung/images/master/image-20230910171829246.png
 tags: [exhibition]
 ---
@@ -14,6 +14,6 @@ tags: [exhibition]
 
 ## Photo Gallery
 
-### CRMH Director Professor Pan Guangjin introduced RP3's research to Professor Sun Dong, the Secretary for Innovation, Technology and Industry.
+### CRMH Director Professor Pan Guangjin introduced RP3's research to Professor Sun Dong, the Secretary for Innovation, Technology and Industry, the Government of the Hong Kong S.A.R..
 
-{% include image_full.html imageurl="https://raw.githubusercontent.com/tosingfung/images/master/image-20230910171829246.png" caption="" %}
+{% include image_caption.html imageurl="https://raw.githubusercontent.com/tosingfung/images/master/image-20230910171829246.png" caption="" %}
