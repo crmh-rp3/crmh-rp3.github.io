@@ -77,9 +77,9 @@ permalink: /pillars.html
 
 | **Agent**  | **Target** | **Drug Class** | **Indication** |
 | ---------- | ---------- | -------------- | -------------- |
-| **3r1**    | GPCR       | Agonist        | **Amblyopia**  |
-| **866**    | GPCR       | Agonist        | **Tinnitus**   |
-| **JM-484** | GPCR       | Antagonist     | **Epilepsy**   |
+| **3r1**    | GPCR       | Agonist        | Amblyopia      |
+| **866**    | GPCR       | Agonist        | Tinnitus       |
+| **JM-484** | GPCR       | Antagonist     | Epilepsy       |
 
 - **3R1** is a novel small molecule agonist targeting a GPCR in the visual cortex of the brain for the treatment and cure for childhood and adult **Amblyopia**;
 - **866** is a new small molecule agonist against a GPCR in the audio cortex of the brain for the treatment and cure of **Tinnitus**;
@@ -87,5 +87,4 @@ permalink: /pillars.html
 
 ### Developmental stages
 
-
-![image-20230910163153183](https://raw.githubusercontent.com/tosingfung/images/master/image-20230910163153183.png)
+{% include image_caption.html imageurl="https://raw.githubusercontent.com/tosingfung/images/master/image-20230910163153183.png" %}
