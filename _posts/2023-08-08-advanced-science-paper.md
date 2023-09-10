@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Publication: RP3 Research Published in Advanced Science"
-feature_image: 
+feature_image: https://raw.githubusercontent.com/tosingfung/images/master/image-20230910173828995.png
 tags: [publication]
 ---
 
