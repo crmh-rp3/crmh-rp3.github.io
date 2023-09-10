@@ -6,7 +6,7 @@ permalink: /pillars.html
 
 <div class="site-description">
     <p>
-        RP3 has established three of the four pillars of drug discovery: <a href="">People</a>, <a href="">Platform</a> and <a href="">Pipeline</a>. Current goal of RP3 is the <a href="">Translation</a> of its drugs in human clinical trials.
+        RP3 has established three of the four pillars of drug discovery: People, Platform and Pipeline. Current goal of RP3 is the Translation of its drugs in human clinical trials.
     </p>
 </div>
 {% include image_caption.html imageurl="https://raw.githubusercontent.com/tosingfung/images/master/image-20230910095541594.png"  %}
@@ -69,20 +69,23 @@ permalink: /pillars.html
 
 # Pillar IV: Translation
 
+### RP3 is now engaged in clinical development of its lead drugs. Primary focus is RP3’s CNS portfolio:
+
 ![image-20230910142308241](https://raw.githubusercontent.com/tosingfung/images/master/image-20230910142308241.png)
 
-- **Innovative Pipeline of Drugs**
+### **Innovative Pipeline of Drugs (Translation)**
 
-  - **3R1** is a novel small molecule agonist targeting a GPCR in the visual cortex of the brain for the treatment and cure for childhood and adult **Amblyopia**;
-  - **866** is a new small molecule agonist against a GPCR in the audio cortex of the brain for the treatment and cure of **Tinnitus**;
-  - **JM-484** is a small molecule antagonist targeting a GPCR in the neocortex of the brain as a novel approach for treating **Epilepsy**
+| **Agent**  | **Target** | **Drug Class** | **Indication** |
+| ---------- | ---------- | -------------- | -------------- |
+| **3r1**    | GPCR       | Agonist        | **Amblyopia**  |
+| **866**    | GPCR       | Agonist        | **Tinnitus**   |
+| **JM-484** | GPCR       | Antagonist     | **Epilepsy**   |
 
-  | **Agent**           | **Target** | **Drug Class** | **Indication** |
-  | ------------------- | ---------- | -------------- | -------------- |
-  | **3r1** (IND #1)    | GPCR       | Agonist        | **Amblyopia**  |
-  | **866** (IND #2)    | GPCR       | Agonist        | **Tinnitus**   |
-  | **JM-484** (IND #3) | GPCR       | Antagonist     | **Epilepsy**   |
+- **3R1** is a novel small molecule agonist targeting a GPCR in the visual cortex of the brain for the treatment and cure for childhood and adult **Amblyopia**;
+- **866** is a new small molecule agonist against a GPCR in the audio cortex of the brain for the treatment and cure of **Tinnitus**;
+- **JM-484** is a small molecule antagonist targeting a GPCR in the neocortex of the brain as a novel approach for treating **Epilepsy**
 
-  
+### Developmental stages
 
-![image-20230910150120226](https://raw.githubusercontent.com/tosingfung/images/master/image-20230910150120226.png)
+
+![image-20230910163153183](https://raw.githubusercontent.com/tosingfung/images/master/image-20230910163153183.png)
