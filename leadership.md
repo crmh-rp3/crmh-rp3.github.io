@@ -20,19 +20,10 @@ permalink: /leadership.html
 - Publish over 75 high impact academic articles and over 30 US and international patents;
 - Successfully lead 4 drug candidates to the clinical development stage.
 
-### Education
-
-- 1999-2001  
-  **Doctor of Medicine**  
-  Imperial College London, UK
-- 1985-1990  
-  **Bachelor of Medicine**  
-  University of Delaware, US
-
 ### Biography
 
 - 2021-now  
-  **Principal Investigator & RP3 Leader**  
+  **Senior Principal Investigator & RP3 Leader**  
   - Developing multiple IND candidates in CNS and musculoskeletal diseases
   - Strong network in drug discovery in mainland China and the US.
 - 2009-now  
