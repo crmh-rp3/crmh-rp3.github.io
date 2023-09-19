@@ -14,6 +14,6 @@ tags: [exhibition]
 
 ## Photo Gallery
 
-### CRMH Director Professor Pan Guangjin introduced RP3's research to Professor Sun Dong, the Secretary for Innovation, Technology and Industry, the Government of the Hong Kong.
+### CRMH Director Professor Pan Guangjin (center) introduced RP3's research to Professor Sun Dong (right), the Secretary for Innovation, Technology and Industry, the Government of the Hong Kong.
 
 {% include image_caption.html imageurl="https://raw.githubusercontent.com/tosingfung/images/master/image-20230910171829246.png" caption="" %}
