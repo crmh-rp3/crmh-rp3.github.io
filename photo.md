@@ -6,7 +6,7 @@ permalink: /photo.html
 
 
 
-{% include image_caption.html imageurl="https://raw.githubusercontent.com/tosingfung/images/master/image-20230919191742886.png" caption="CRMH main entrance at 15W, HKSTP" %}
+{% include image_caption.html imageurl="https://www.crmh-cas.org.hk/uploads/image/202310/6ef43f52a3dbdb8845157bae8ff6bebf.png" caption="CRMH main entrance at 15W, HKSTP" %}
 
 {% include image_caption.html imageurl="https://raw.githubusercontent.com/tosingfung/images/master/image-20230919193236236.png" caption="Open laboratory bench (15W, HKSTP)" %}
 
