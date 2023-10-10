@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Publication: RP3 Research Published in International Journal of Molecular Sciences"
-feature_image: https://raw.githubusercontent.com/tosingfung/images/master/image-20230910175008848.png
+feature_image: https://www.crmh-cas.org.hk/uploads/image/202310/96a89c6b80820fa8b19c2f0466651747.png
 tags: [publication]
 ---
 
 <!--more-->
 
-{% include image_caption.html imageurl="https://raw.githubusercontent.com/tosingfung/images/master/image-20230910175008848.png" caption="" %}
+{% include image_caption.html imageurl="https://www.crmh-cas.org.hk/uploads/image/202310/96a89c6b80820fa8b19c2f0466651747.png" caption="" %}
 
 ## Link
 

@@ -9,7 +9,7 @@ permalink: /leadership.html
 </div>
 
 
-<div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230908212336823.png" /></div>
+<div style="text-align: center"><img src="https://www.crmh-cas.org.hk/uploads/image/202310/1c4691d10d944f79e4c59a6c9611fb66.png" /></div>
 <h2 style="padding-top: 0.5em; padding-bottom: 0.5em; margin: 0; text-align: center">Professor Micky Tortorella</h2>
 <h3 style="padding: 0; margin: 0; text-align: center; color: #4071D7; font-style: italic">Program Leader (Full-time)</h3>
 
@@ -42,13 +42,14 @@ permalink: /leadership.html
   **Senior Scientist**  
   Dept. of Inflammatory Diseases, DuPont
 
-{% include image_caption.html imageurl="https://raw.githubusercontent.com/tosingfung/images/master/image-20230909173606114.png" %}
+{% include image_caption.html imageurl="https://www.crmh-cas.org.hk/uploads/image/202310/63689416b55fd073e5513f30b9cf37c0.png" %}
 
 <div style="text-align:right"><a href="#page">Back to top</a></div>
 <hr style="border: 0; border-top: 5px solid grey">
 
 
-<div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230908212139265.png" /></div>
+<div style="text-align: center"><img src="https://www.crmh-cas.org.hk/uploads/image/202310/5abd8e93dc8b6e4d9e2b21b46b346318.png
+" /></div>
 <h2 style="padding-top: 0.5em; padding-bottom: 0.5em; margin: 0; text-align: center">Professor He Jufang</h2>
 <h3 style="padding: 0; margin: 0; text-align: center; color: #4071D7; font-style: italic">Co-Program Leader (Part-time)</h3>
 
@@ -102,7 +103,7 @@ permalink: /leadership.html
 
 
 
-{% include image_caption.html imageurl="https://raw.githubusercontent.com/tosingfung/images/master/image-20230909201330560.png" %}
+{% include image_caption.html imageurl="https://www.crmh-cas.org.hk/uploads/image/202310/92d1344580a5e23b29409295c52009f0.png" %}
 
 <div style="text-align:right"><a href="#page">Back to top</a></div>
 <hr style="border: 0; border-top: 5px solid grey">
@@ -110,33 +111,40 @@ permalink: /leadership.html
 
 
 
-<div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230909201700468.png" /></div>
+<div style="text-align: center"><img src="https://www.crmh-cas.org.hk/uploads/image/202310/4b32da77a5f1d397030359476ccce297.png
+" /></div>
 <h2 style="padding-top: 0.5em; padding-bottom: 0.5em; margin: 0; text-align: center">Professor Sun Hongyan</h2>
 <h3 style="padding-top: 0; padding-bottom: 4em; margin: 0; text-align: center; color: #4071D7; font-style: italic">City University of Hong Kong (Part-time)</h3>
 
-<div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230909202007948.png" /></div>
+<div style="text-align: center"><img src="https://www.crmh-cas.org.hk/uploads/image/202310/9b2207b99f2c1109d26fe3638bed5af1.png
+" /></div>
 <h2 style="padding-top: 0.5em; padding-bottom: 0.5em; margin: 0; text-align: center">Professor Lau Chun Yue</h2>
 <h3 style="padding-top: 0; padding-bottom: 4em; margin: 0; text-align: center; color: #4071D7; font-style: italic">City University of Hong Kong (Part-time)</h3>
 
-<div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230909202643310.png" /></div>
+<div style="text-align: center"><img src="https://www.crmh-cas.org.hk/uploads/image/202310/d2844eff7a9daec573cbde7c0a1f3efb.png
+" /></div>
 <h2 style="padding-top: 0.5em; padding-bottom: 0.5em; margin: 0; text-align: center">Professor Lee Youngjin</h2>
 <h3 style="padding-top: 0; padding-bottom: 4em; margin: 0; text-align: center; color: #4071D7; font-style: italic">City University of Hong Kong (Part-time)</h3>
 
-<div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230909202928878.png" /></div>
+<div style="text-align: center"><img src="https://www.crmh-cas.org.hk/uploads/image/202310/803fb125444cd73276c7d10bd23ba716.png
+" /></div>
 <h2 style="padding-top: 0.5em; padding-bottom: 0.5em; margin: 0; text-align: center">Professor Li Gang</h2>
 <h3 style="padding-top: 0; padding-bottom: 0; margin: 0; text-align: center; color: #4071D7; font-style: italic">Chinese University of Hong Kong</h3>
 <h3 style="padding-top: 0; padding-bottom: 4em; margin: 0; text-align: center; color: #4071D7; font-style: italic">(Part-time)</h3>
 
-<div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230909204040358.png" /></div>
+<div style="text-align: center"><img src="https://www.crmh-cas.org.hk/uploads/image/202310/76ab77b5b0077c91fa92ce5e400fbfb4.png
+" /></div>
 <h2 style="padding-top: 0.5em; padding-bottom: 0; margin: 0.5em; text-align: center">Dr. Kong Ling</h2>
 <h3 style="padding-top: 0; padding-bottom: 4em; margin: 0; text-align: center; color: #4071D7; font-style: italic">CRMH-HKISI-CAS (Part-time)</h3>
 
-<div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230909203515029.png" /></div>
+<div style="text-align: center"><img src="https://www.crmh-cas.org.hk/uploads/image/202310/13eff3555800ce73bf20224141aa5c37.png
+" /></div>
 <h2 style="padding-top: 0.5em; padding-bottom: 0.5em; margin: 0; text-align: center">Dr. Chen Xi</h2>
 <h3 style="padding-top: 0; padding-bottom: 0; margin: 0; text-align: center; color: #4071D7; font-style: italic">Program Coordinator (Part-time)</h3>
 <h3 style="padding-top: 0; padding-bottom: 4em; margin: 0; text-align: center; color: #4071D7; font-style: italic">City University of Hong Kong</h3>
 
-<div style="text-align: center"><img src="https://raw.githubusercontent.com/tosingfung/images/master/image-20230909203624437.png" /></div>
+<div style="text-align: center"><img src="https://www.crmh-cas.org.hk/uploads/image/202310/ccdc6ccf3dc1b300fb3f0faf2cd44d99.png
+" /></div>
 <h2 style="padding-top: 0.5em; padding-bottom: 0.5em; margin: 0; text-align: center">Dr. Wang Yaofeng</h2>
 <h3 style="padding-top: 0; padding-bottom: 0; margin: 0; text-align: center; color: #4071D7; font-style: italic">Program Coordinator (Full-time)</h3>
 <h3 style="padding-top: 0; padding-bottom: 4em; margin: 0; text-align: center; color: #4071D7; font-style: italic">CRMH-HKISI-CAS</h3>

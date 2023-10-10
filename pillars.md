@@ -9,13 +9,13 @@ permalink: /pillars.html
         RP3 has established three of the four pillars of drug discovery: People, Platform and Pipeline. Current goal of RP3 is the Translation of its drugs in human clinical trials.
     </p>
 </div>
-{% include image_caption.html imageurl="https://raw.githubusercontent.com/tosingfung/images/master/image-20230910095541594.png"  %}
+{% include image_caption.html imageurl="https://www.crmh-cas.org.hk/uploads/image/202310/51b0c5b9546737f93e4f02ab1ac5f038.png"  %}
 
 ---
 
 # Pillar I: People
 
-![image-20230910114849560](https://raw.githubusercontent.com/tosingfung/images/master/image-20230910114849560.png)
+![image-20230910114849560](https://www.crmh-cas.org.hk/uploads/image/202310/a0de4fb66158276cdf079809cd8e4c1a.png)
 
 - International team of drug discovery scientists
 - Successful **talent recruitment** in diversified disciplines by RP3 has been completed
@@ -26,7 +26,7 @@ permalink: /pillars.html
 
 # Pillar II: Platform
 
-![image-20230910135827999](https://raw.githubusercontent.com/tosingfung/images/master/image-20230910135827999.png)
+![image-20230910135827999](https://www.crmh-cas.org.hk/uploads/image/202310/04762a6ca553433b455969fab9c7b872.png)
 
 - Each platform fully equipped and staffed
 - Allows RP3 to conduct drug development from target validation to IND candidate nomination
@@ -50,7 +50,7 @@ permalink: /pillars.html
 
 # Pillar III: Pipeline
 
-![image-20230910135453970](https://raw.githubusercontent.com/tosingfung/images/master/image-20230910135453970.png)
+![image-20230910135453970](https://www.crmh-cas.org.hk/uploads/image/202310/4abc5946984060a59590d1602f14cac3.png)
 
 - **Drugs for cognitive regeneration**
   - Preserving the brain extracellular matrix using small molecule drugs as a strategy for blocking neural degeneration
@@ -71,7 +71,7 @@ permalink: /pillars.html
 
 ### RP3 is now engaged in clinical development of its lead drugs. Primary focus is RP3’s CNS portfolio:
 
-![image-20230910142308241](https://raw.githubusercontent.com/tosingfung/images/master/image-20230910142308241.png)
+![image-20230910142308241](https://www.crmh-cas.org.hk/uploads/image/202310/a965f2c613ffa9e5c2ec568630da8286.png)
 
 ### **Innovative Pipeline of Drugs**
 
@@ -87,4 +87,4 @@ permalink: /pillars.html
 
 ### Developmental stages
 
-{% include image_caption.html imageurl="https://raw.githubusercontent.com/tosingfung/images/master/image-20230910163153183.png" %}
+{% include image_caption.html imageurl="https://www.crmh-cas.org.hk/uploads/image/202310/ede9f07f0ff2159715913cec261c6b9f.png" %}

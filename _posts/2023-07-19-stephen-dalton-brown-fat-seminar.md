@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seminar: Targeting Thermogenic Adipocytes as a Strategy for Treating Type 2 Diabetes. Professor Stephen Dalton, Chinese University of Hong Kong"
-feature_image: https://raw.githubusercontent.com/tosingfung/images/master/image-20230909101904834.png
+feature_image: https://www.crmh-cas.org.hk/uploads/image/202310/acca06e04d6f0140e76554aebb20cf64.png
 tags: [seminar]
 ---
 
@@ -34,4 +34,4 @@ tags: [seminar]
 
 ## Photo Gallery
 
-{% include image_full.html imageurl="https://raw.githubusercontent.com/tosingfung/images/master/image-20230909101904834.png" caption="Seminar"%}
+{% include image_full.html imageurl="https://www.crmh-cas.org.hk/uploads/image/202310/acca06e04d6f0140e76554aebb20cf64.png" caption="Seminar"%}

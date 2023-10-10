@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Publication: RP3 Research Published in Advanced Science"
-feature_image: https://raw.githubusercontent.com/tosingfung/images/master/image-20230910174428979.png
+feature_image: https://www.crmh-cas.org.hk/uploads/image/202310/0ac0aa2833485a87855547c7fa7627e1.png
 tags: [publication]
 ---
 
 <!--more-->
 
-{% include image_caption.html imageurl="https://raw.githubusercontent.com/tosingfung/images/master/image-20230910174428979.png" caption="" %}
+{% include image_caption.html imageurl="https://www.crmh-cas.org.hk/uploads/image/202310/0ac0aa2833485a87855547c7fa7627e1.png" caption="" %}
 
 ## Link
 
