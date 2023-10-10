@@ -8,7 +8,7 @@ permalink: /photo.html
 
 {% include image_caption.html imageurl="https://www.crmh-cas.org.hk/uploads/image/202310/6ef43f52a3dbdb8845157bae8ff6bebf.png" caption="CRMH main entrance at 15W, HKSTP" %}
 
-{% include image_caption.html imageurl="https://raw.githubusercontent.com/tosingfung/images/master/image-20230919193236236.png" caption="Open laboratory bench (15W, HKSTP)" %}
+{% include image_caption.html imageurl="https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvcyFBbXBBTWtQNjFIVFBqV0k4Y3VJWU1NamZsaVlRP2U9M1pwekN5.png" caption="Open laboratory bench (15W, HKSTP)" %}
 
 {% include image_caption.html imageurl="https://raw.githubusercontent.com/tosingfung/images/master/image-20230919193504073.png" caption="CRMH core facilities (15W, HKSTP)" %}
 
